@@ -1,0 +1,45 @@
+---
+layout: post
+title: Viki's Diary
+subtitle: Here is what I, an house-cat, spent my morning.
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+---
+
+Demo Post from my cat!
+
+{: .box-error}
+**Disclaimer:** I am only talking through my experience. Every cat has their own way of spending their Sunday, and I do not represent the views of all cats, so becareful while drawing geenralizations for cats around the world.
+
+## Here's a journal of a typical Sunday morning in my life:
+
+| Time | Activity | Comments |
+| :------ |:--- | :--- |
+| 5 am | Playing with Saumya's hair| Fun |
+| :------ |:--- | :--- |
+| 5:30am | Successfully waking her up | She gets enough sleep already |
+| 5:32am | Meowing loudly for food | My throat is hoarse |
+| 5:33am | Ate some fish | Mission Accomplished! |
+| 5:45am  | Saw a few birds outside my window | Frustrating to not be able to catch them |
+| 6:15am |Played with my sister | She lacked energy today, maybe because I ate her share? |
+| 7am | Went to the terrace | Fresh air! Open skies! |
+| 8am | Came back home | Home sweet home |
+| 9am | Meowed for treats | I like salmon flavored treats more than chicken one |
+| 9:02am |Ate my treats | Need i say more? |
+| 9:05am | Sun-bathing | Pools of sun forming on my fur, while I get pet by her |
+| 3pm |Woke up!?| Did not realize I napped after my poetry|
+
+**Photos from my Sunday scrapbook:**
+
+![Cat](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :} 
+
+![Sister](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
+## My top 3 Sunday morning activities:
+{% highlight javascript linenos %}
+Eating my Treats 
+Playing with my sister
+Sun-bathing while being petted
+{% endhighlight %}
