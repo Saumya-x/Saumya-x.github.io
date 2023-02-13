@@ -7,18 +7,13 @@ gh-badge: [star, fork, follow]
 tags: [cat, sunday, weekend, journal]
 comments: true
 ---
-### Error
-
-{: .box-error}
-**Disclaimer:** This is an error box.
+### Error {: .box-error}**Disclaimer:** This is an error box.
 ---
 
 ## **Viki's Schedule**
 
-Time-table:
+**Time-table:** 
 
-| Time | Activity | Comment |
-| :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
