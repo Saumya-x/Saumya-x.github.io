@@ -14,4 +14,4 @@ I, Saumya Shinde, am a proud pet mom. My cat Viki has the following qualities:
 
 ### Sidenotes with Viki:
 
-Viki would like you to watch [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for all the reasons why you should **not** adopt. 
+Viki would like you to watch [this](https://www.google.com/search?q=rick+roll&client=safari&rls=en&sxsrf=AJOqlzXyb6mT7pPVMYcTdS7df5T3EgkEGA:1676315510377&source=lnms&tbm=vid&sa=X&ved=2ahUKEwj8vJv0mZP9AhWKFVkFHUcxDY8Q_AUoAnoECAIQBA&biw=985&bih=739&dpr=2#fpstate=ive&vld=cid:99cf5550,vid:dQw4w9WgXcQ) for all the reasons why you should **not** adopt. 
