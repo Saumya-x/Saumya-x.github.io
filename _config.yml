@@ -3,45 +3,31 @@ title: Saumya Test Website
 author: Saumya
 navbar-links:
   About Me: aboutme
-  Resources:
-    - Syllabus
-    - Assignments
-    - Lectures
 avatar: /assets/img/viki.jpg
 round-avatar: false
 social-network-links:
   email: sss6@williams.edu
-  rss: true
-  facebook: Saumya2805
   github: Saumya-x
-  twitter: N/A
-  patreon: N/A
-  youtube: c/N/A
-rss-description: This website is a virtual proof that I love my cats<3
+  linkedin: https://www.linkedin.com/in/saumya-shinde-a556ab1b5/  
 share-links-active:
   email: true
-  twitter: false
-  facebook: true
   linkedin: true
-  instagram: true
-  spotify: true
-  vk: false
 excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
 post_search: true
 edit_page_button: true
 navbar-var-length: false
-navbar-col: "#C6A206"
-navbar-text-col: "#5824BF"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#ffc0cb"
+navbar-text-col: "#ffffff"
+navbar-border-col: "#ff748c"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#ff748c"
+footer-text-col: "##404040"
+footer-link-col: "#008AFF"
 footer-hover-col: "#0085A1"
 date_format: "%B %-d, %Y"
 timezone: America/Toronto
