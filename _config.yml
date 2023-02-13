@@ -8,7 +8,7 @@ round-avatar: false
 social-network-links:
   email: sss6@williams.edu
   github: Saumya-x
-  instagram: _saumyashinde_
+  instagram: saumyashinde_
 share-links-active:
   email: true
   instagram: true
@@ -18,9 +18,9 @@ feed_show_tags: true
 post_search: true
 edit_page_button: true
 navbar-var-length: false
-navbar-col: "#ffc0cb"
-navbar-text-col: "#ffffff"
-navbar-border-col: "#ff748c"
+navbar-col: "#FFC0CB"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "FF748C"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
