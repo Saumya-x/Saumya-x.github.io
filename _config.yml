@@ -8,10 +8,10 @@ round-avatar: false
 social-network-links:
   email: sss6@williams.edu
   github: Saumya-x
-  linkedin: Saumya Shinde
+  instagram: @_saumyashinde_
 share-links-active:
   email: true
-  linkedin: true
+  instagram: true
 excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
