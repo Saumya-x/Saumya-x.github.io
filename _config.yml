@@ -57,6 +57,3 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
