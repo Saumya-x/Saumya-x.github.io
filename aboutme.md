@@ -1,17 +1,20 @@
 ---
 layout: page
-title: About me (and my cat)
-subtitle: All a-meow-zing facts about us!
+title: Plane curves belong in the Maths textbook, and women do not belong there.
+subtitle: Feminism woven into CSCI 103 
 ---
 
-I, Saumya Shinde, am a proud pet mom. My cat Viki has the following qualities:
+I, Saumya Shinde, am a first-year from Mumbai, India at Williams College. I am a dialogue facilitator, conflict mediator, advocate, dancer, and an artist. You can read more about my work [here](https://www.seedsofpeace.org/meet-saumya-doing-the-most-good-with-3900-weeks/) 
 
-- Adventurous
-- Shares with her sister (sometimes)
-- Loves sunshine
-- Never meows unless asking for food.
+One of my reasons, out of many, for partaking in this course is related to feminism. An ad in the 1950's by the *Hidden Treasures* brassiere company talks about how Plane curves belong in the Math textbook. Hitting two birds with one stone, it effectively translates into:
+- A. Body shaming
+- B. Womens' place (bodies) unbelonging in STEM.
+
+I myself have had such a perception of my own skills in STEM. I am done running away from it. I want to dispel the story I have built for myself for years - "I just do not get it." I want to challenge myself in a **safe space**. Adding on to the feminist aspect, I am intrigued by the marriage of knitting and programming - both things I have not given myself the chance to fail (or succeed!) at. An experiential class at heart, I cannot wait to step out of my theory bubble and do, create, shape!
 
 
-### Sidenotes with Viki:
+{: .box-error}
+**Disclaimer:**
+Here is to a great semester<3{: .mx-auto.d-block :} 
 
-Viki would like you to watch [this](https://www.google.com/search?q=rick+roll&client=safari&rls=en&sxsrf=AJOqlzXyb6mT7pPVMYcTdS7df5T3EgkEGA:1676315510377&source=lnms&tbm=vid&sa=X&ved=2ahUKEwj8vJv0mZP9AhWKFVkFHUcxDY8Q_AUoAnoECAIQBA&biw=985&bih=739&dpr=2#fpstate=ive&vld=cid:99cf5550,vid:dQw4w9WgXcQ) for all the reasons why you should **not** adopt. 
+
