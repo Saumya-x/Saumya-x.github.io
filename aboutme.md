@@ -15,6 +15,6 @@ I myself have had such a perception of my own skills in STEM. I am done running 
 
 {: .box-error}
 **Disclaimer:**
-Here is to a great semester<3{: .mx-auto.d-block :} 
+Here is to a great semester<3
 
 
