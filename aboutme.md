@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plane curves belong in the Maths textbook, and women do not belong there.
+title: Plane curves belong in the Math textbook, and women do not belong there.
 subtitle: Feminism woven into CSCI 103 
 ---
 
