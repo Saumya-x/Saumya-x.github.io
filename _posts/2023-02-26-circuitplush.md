@@ -8,6 +8,7 @@ tags: [sew, stitches, thread, craft, art, circuit, LED]
 comments: true
 ---
 
+The assignment was exciting yet challenging! We had to stitch Lilypad Arduino components onto our textile and do additional embroidery as suited. A little plushie was the right amount of challenge. I was not entirely succesful at this, but had fun neverthless and understood the textile-circuit relationship better than before. Adding on the button and slide switch components to the circuit made it more complex and gave a control over the circuit.
 
 ## **Process**
 
