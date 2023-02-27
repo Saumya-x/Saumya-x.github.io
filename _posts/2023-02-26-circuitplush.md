@@ -17,7 +17,7 @@ Paper trace!
 ![A paper trace of the prototype](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/papertrace.jpeg){: .mx-auto.d-block :}
 
 Alligator Prototype!
-*I had to get creative here, as most of my supplies got used up in the stitch (I took this photot after)*
+*I had to get creative here, as most of my supplies got used up in the stitch (I took this photo after I was done, but had completed this step in the process at the rigtht time.)*
 
 ![Creative alligator prototype!](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/alligator.jpeg){: .mx-auto.d-block :}
 
