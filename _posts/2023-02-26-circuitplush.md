@@ -16,15 +16,15 @@ Paper trace!
 ![A paper trace of the prototype](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/papertrace.jpeg){: .mx-auto.d-block :}
 
 Alligator Prototype!
-*I had to get cretive here, as most of my supplies got used up in the stitch (I took this photot after)*
+*I had to get creative here, as most of my supplies got used up in the stitch (I took this photot after)*
 
 ![Creative alligator prototype!](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/alligator.jpeg){: .mx-auto.d-block :}
 
 Backside of the plushie!
-(https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/backside.jpeg){: .mx-auto.d-block :}
+![Backside of the sewn plushie!](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/backside.jpeg){: .mx-auto.d-block :}
 
 Fronstide of the plushie!
-(https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/frontside.jpeg){: .mx-auto.d-block :}
+![Frontside of the sewn plushie!](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/frontside.jpeg){: .mx-auto.d-block :}
 
 
 ### Tip/Trick for Past Saumya
