@@ -19,17 +19,19 @@ Paper trace!
 Alligator Prototype!
 *I had to get creative here, as most of my supplies got used up in the stitch (I took this photo after I was done, but had completed this step in the process at the rigtht time.)*
 
-![Creative alligator prototype!](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/alligator.jpeg){: .mx-auto.d-block :}
+![Creative alligator prototype!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/croc2.jpeg?raw=true){: .mx-auto.d-block :}
+![Creative alligator prototype!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/croc1.jpeg?raw=true){: .mx-auto.d-block :}
 
 Backside of the plushie!
-![Backside of the sewn plushie!](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/backside.jpeg){: .mx-auto.d-block :}
+![Backside of the sewn plushie!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/back100.jpeg?raw=true){: .mx-auto.d-block :}
 
 Fronstide of the plushie!
-![Frontside of the sewn plushie!](https://raw.githubusercontent.com/Saumya-x/Saumya-x.github.io/master/assets/img/frontside.jpeg){: .mx-auto.d-block :}
+![Frontside of the sewn plushie!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/lit1.jpeg?raw=true){: .mx-auto.d-block :}
+![Frontside of the sewn plushie!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/lit2.jpeg?raw=true){: .mx-auto.d-block :}
 
 
 ### Tip/Trick for Past Saumya
 
 {: .box-note}
-**Note:** Start earlier and ask for help with the TAs. My plushie is not lighting up yet, but the process was informative!
+**Note:** Start earlier and ask for help with the TAs!
 
