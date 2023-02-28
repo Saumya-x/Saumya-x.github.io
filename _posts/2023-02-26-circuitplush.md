@@ -20,6 +20,8 @@ Alligator Prototype!
 *I had to get creative here, as most of my supplies got used up in the stitch (I took this photo after I was done, but had completed this step in the process at the rigtht time.)*
 
 ![Creative alligator prototype!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/croc2.jpeg?raw=true){: .mx-auto.d-block :}
+
+
 ![Creative alligator prototype!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/croc1.jpeg?raw=true){: .mx-auto.d-block :}
 
 Backside of the plushie!
@@ -27,6 +29,8 @@ Backside of the plushie!
 
 Fronstide of the plushie!
 ![Frontside of the sewn plushie!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/lit1.jpeg?raw=true){: .mx-auto.d-block :}
+
+
 ![Frontside of the sewn plushie!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/lit2.jpeg?raw=true){: .mx-auto.d-block :}
 
 
