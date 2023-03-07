@@ -12,16 +12,16 @@ This assignment called for us to make 2 switches, which could be opened and clos
 ## **Sampler**
 
 Frontside!
-![Frontside of the homemade switches](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/E8E31128-089E-4844-BD96-A4EE9EEB334B.jpeg?raw=true){: .mx-auto.d-block :}
+![Frontside of the homemade switches](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/E8E31128-089E-4844-BD96-A4EE9EEB334B.jpeg?raw=true){:.mx-auto.d-block :}
 
 Backside!
-![Backside of the homemade switches](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/57079AD0-03BE-45D5-A4A4-98F7B47C66C6.jpeg?raw=true){: .mx-auto.d-block :}
+![Backside of the homemade switches](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/57079AD0-03BE-45D5-A4A4-98F7B47C66C6.jpeg?raw=true){:.mx-auto.d-block :}
 
 Alligator Prototype
-![alligator proto of the homemade switches](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/08A27B98-2016-4692-8E84-D75BBA0458CA.jpeg?raw=true){: .mx-auto.d-block :}
+![alligator proto of the homemade switches](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/08A27B98-2016-4692-8E84-D75BBA0458CA.jpeg?raw=true){:.mx-auto.d-block :}
 
 Paper Prototype
-![paper proto of the homemade switches](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/DC2BA932-CE52-4D98-85BC-575172474F85.jpeg?raw=true){: .mx-auto.d-block :}
+![paper proto of the homemade switches](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/DC2BA932-CE52-4D98-85BC-575172474F85.jpeg?raw=true){:.mx-auto.d-block :}
 
 ### Tip/Trick for Past Saumya
 
