@@ -25,6 +25,7 @@ This is what a transition between each reset looks like!
 ![Transition Time](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/transition.jpeg?raw=true){: .mx-auto.d-block :}
 
 *Since pictures cannot capture the firefly behavior, take a peek at these videos here!*
+
 [Drive for Flashbulb videos](https://drive.google.com/drive/folders/1_LXDdxvgHoCTONVzwhusdYxlwaIxVAcX?usp=sharing)
 
 ### Tip/Trick for Past Saumya
