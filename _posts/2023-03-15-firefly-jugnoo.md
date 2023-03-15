@@ -13,7 +13,7 @@ We replicated the firefly flashes to code by using Arduino Board. Each firefly h
 ## Photos of LEDs flashing (Working):
 
 The FlashBulb (Pin A5 flashes every 4s for 0.5s)
-![FlashBulb](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/PLUSHYRE.png?raw=true){: .mx-auto.d-block :}
+![FlashBulb](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/synchronous.mp4?raw=true){: .mx-auto.d-block :}
 
 The BigDipper (Pin A7 flashes every 3s until max brightness at an increment of 30 every 0.1s)
 ![BigDipper](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/PLUSHYRE.png?raw=true){: .mx-auto.d-block :}
