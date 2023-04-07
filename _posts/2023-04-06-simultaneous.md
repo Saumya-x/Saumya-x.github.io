@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simultaneous Sparklies
-subtitle:The Union of the Big Three – FlashBulb, BigDipper, Synchronous - replicating natural fireflies' flashing patterns in Arduino
+subtitle: The Union of the Big Three – FlashBulb, BigDipper, Synchronous - replicating natural fireflies' flashing patterns in Arduino
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [firefly, bulb, flash, arduino, e-textile]
