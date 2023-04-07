@@ -10,6 +10,7 @@ comments: true
 
 ## **Project description**
 The One Where All the LEDs meet - 
+
 ![FRIENDS REFERENCE](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/FRIENDS.jpeg?raw=true){: .mx-auto.d-block :}
 
 All 3 simultaneous sparklies are running simultaneously in the same Arduino file. Since I used the general approach, this assignment was relatively quick.
