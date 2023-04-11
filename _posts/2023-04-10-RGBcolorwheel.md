@@ -23,7 +23,7 @@ Only when the button is pressed (and only as long as its pressed) should it show
 ### Tip/Trick for Past Saumya
 
 {: .box-note}
-**Note:** Declaring variables and looping them are different. Pay attention to how random function works.thinking of the lights as theater lights really helps!
+**Note:** Declaring variables and looping them are different. Pay attention to how random function works. Thinking of the LEDs as theater lights really helps!
 
 ![Theater!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/theaterlighjt.jpeg?raw=true){: .mx-auto.d-block :}
 
