@@ -20,6 +20,6 @@ Only when both the analog inputs - the temperature and light sensors - have the 
 {: .box-note}
 **Note:** Do not overthink it, it is as straight-forward as it seems! The cow is a good example to think of your project story!!
 
-AI art generated from [Hotpot.ai] (https://hotpot.ai) with my prompts (This is the best AI could do!):
+AI art generated from [Hotpot.ai](https://hotpot.ai) with my prompts (This is the best AI could do!):
 ![Poor cow!](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/cowscared.png?raw=true){: .mx-auto.d-block :}
 
