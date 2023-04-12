@@ -12,6 +12,7 @@ comments: true
 Only when both the analog inputs - the temperature and light sensors - have the mimimum value or less (our dark and cold values) should the on-board red LEDs switch on to alarm our cow about the Ghost nearby! 
 
 **Screenshot of the Alarms sounding off to alert the cow about the ghost:**
+*My temperature sensor short-circuited, so I have assigned a higher value as the cold value here. It definitely works and can be adapted to an actual cold temperature with a working temperature sensor!*
 
 ![Screenshot](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/cowdangermoo.jpg?raw=true){: .mx-auto.d-block :}
 
