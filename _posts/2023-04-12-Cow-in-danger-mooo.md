@@ -9,7 +9,7 @@ comments: true
 ---
 
 ## **Assignment reflection**
-Only when both the analog inputs - the temperature and light sensors - have the mimimum value or less (our dark and cold values should the on-board red LEDs switch on to alarm our cow about the Ghost nearby! 
+Only when both the analog inputs - the temperature and light sensors - have the mimimum value or less (our dark and cold values) should the on-board red LEDs switch on to alarm our cow about the Ghost nearby! 
 
 **Screenshot of the Alarms sounding off to alert the cow about the ghost:**
 
