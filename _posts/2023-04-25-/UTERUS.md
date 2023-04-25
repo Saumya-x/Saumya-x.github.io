@@ -1,11 +1,11 @@
 ---
-layout : post
-title : My Uterus...
-subtitle : Culmination: Final project!
-gh-repo : daattali/beautiful-jekyll
-gh-badge : [star, fork, follow]
-tags : [analog input, sensor, LED, red, light, uterus, abortion, reproductive justice, arduino]
-comments : true
+layout: post
+title: My Uterus
+subtitle: Culmination: Final project!
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [analog input, sensor, LED, red, light, uterus, abortion, reproductive justice, arduino]
+comments: true
 ---
 
 ## **Assignment reflection**
