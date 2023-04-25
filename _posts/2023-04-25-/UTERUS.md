@@ -1,11 +1,8 @@
----
 layout: post
-title: My Uterus
-subtitle: Culmination: Final project!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [analog input, sensor, LED, red, light, uterus, abortion, reproductive justice, arduino]
-comments: true
+title: Saumya @Williams
+subtitle: Who am I?
+cover-img: /assets/img/images.jpeg
+tags: [me, williams, csci, sewing, coding, major, psychology]
 ---
 
 ## **Assignment reflection**
