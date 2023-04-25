@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MyUterus
+title: MyUterus
 subtitle: Culmination: Final project!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
