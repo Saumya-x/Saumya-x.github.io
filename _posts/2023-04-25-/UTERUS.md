@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Uterus...My Opinion?
+title: My Uterus, My Opinion?
 subtitle: Culmination: Final project!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
