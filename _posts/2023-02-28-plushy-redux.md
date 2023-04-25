@@ -7,11 +7,10 @@ gh-badge: [star, fork, follow]
 tags: [switch, button, LED, light, on, off, plushie]
 comments: true
 ---
-
 ## **Assignment reflection**
 For this assignment, we had to use nested if..else.. statements. Translating the plushy from a physically sewn object to a programming code was fun! Had to connect the LED values to button and switch being on. And then decide if the circuit was open or closed, what the response output would be. 
 
-Screenshot of one of the outputs!
+**Screenshot of one of the outputs!**
 
 ![Screenshot](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/PLUSHYRE.png?raw=true){: .mx-auto.d-block :}
 
