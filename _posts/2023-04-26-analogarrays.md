@@ -20,3 +20,9 @@ comments: true
 <!-- blank line -->
 <iframe width="344" height="612" src="https://www.youtube.com/embed/V-KUj21Ug0E" title="ANALOGARRAYS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!-- blank line -->
+
+**A joke I found online on punstoppable.com (by u/dummy_149. Jul 20, 2020)**
+
+   Q.Why did the programmer quit his job?
+   
+ --> because he didn't get arrays.
