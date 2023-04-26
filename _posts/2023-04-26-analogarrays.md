@@ -4,7 +4,7 @@ title: Analog Arrays – Final project!
 subtitle: Radom & Arrays
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [analog output, PWM, arduino]
+tags: [analog output, PWM, arduino, Arrays, Analog Arrays, Assignment, Random]
 comments: true
 ---
 
