@@ -18,5 +18,5 @@ comments: true
 **A video of it working:**
 
 <!-- blank line -->
-<iframe width="560" height="315" <iframe width="344" height="612" src="https://www.youtube.com/embed/V-KUj21Ug0E" title="ANALOGARRAYS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="344" height="612" src="https://www.youtube.com/embed/V-KUj21Ug0E" title="ANALOGARRAYS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!-- blank line -->
