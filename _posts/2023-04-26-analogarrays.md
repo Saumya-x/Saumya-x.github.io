@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analog Arrays: Final project!
+title: Analog Arrays – Final project!
 subtitle: Radom & Arrays
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
