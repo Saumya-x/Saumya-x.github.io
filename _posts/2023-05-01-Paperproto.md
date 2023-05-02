@@ -9,7 +9,7 @@ comments: true
 ---
 ## **Brief:**
 Paper prototype is one of the first steps to starting the project, so I know exactly which components go into it and how. It is also helpful to have a larger picture of the project for debugging purposes later on. 
-I decided to not do bus traces nor have all components on the wrong side. This decision was taken so as to enhance my project's structure, aesthetic, and messaging even more. All outputs are connected to PWM pins, so i can play around with the light value as needed!
+I decided to not do bus traces nor have all components on the wrong side. This decision was taken so as to enhance my project's structure, aesthetic, and messaging even more. All outputs are connected to PWM pins, so I can play around with the light value as needed!
 
 **Right side of the Prototype i.e. component layout + non-conductive thread work:**
 
