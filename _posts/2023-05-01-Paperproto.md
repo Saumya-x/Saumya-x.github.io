@@ -11,7 +11,7 @@ comments: true
 Paper prototype is one of the first steps to starting the project, so I know exactly which components go into it and how. It is also helpful to have a larger picture of the project for debugging purposes later on. 
 I decided to not do bus traces nor have all components on the wrong side. This decision was taken so as to enhance my project's structure, aesthetic, and messaging even more.
 
-**Right side of the Prototype i.e component layout + non-conductive thread work:**
+**Right side of the Prototype i.e. component layout + non-conductive thread work:**
 
 ![Screenshot](https://github.com/Saumya-x/Saumya-x.github.io/blob/master/assets/img/proto2.jpg?raw=true){: .mx-auto.d-block :}
 
