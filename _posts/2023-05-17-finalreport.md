@@ -76,11 +76,7 @@ I was inspired to do this Statement Art Piece from my WGSS passion and my recent
 ### Tips/Tricks for Past Saumya
 
 {: .box-note}
-**Note:** 
-1. Go to the FabLab and get better Fabric Glue and guidance for insulation.
-2. Think critically where the component - especially the Arduino board – goes. Mirroring it was not a difficult task while stitching, but could have visualized the prototype better.
-3. Circuits are not as intimidating as you think they are!! Just getting started is the trick.
-4. You did well!!!<3
+**Note:** 1. Go to the FabLab and get better Fabric Glue and guidance for insulation; 2. Think critically where the component - especially the Arduino board – goes. Mirroring it was not a difficult task while stitching, but could have visualized the prototype better; 3. Circuits are not as intimidating as you think they are!! Just getting started is the trick; 4. You did well!!!<3
 
 **Citations for the Uterus sketch (by Artskrin)**
 [Deposit Photos] (https://depositphotos.com/566051758/stock-video-self-drawing-of-the-uterus.html)
